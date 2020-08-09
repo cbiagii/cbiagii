@@ -28,7 +28,7 @@
   <img align="left" alt="cbiagii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cbiagii&scount_private=true&how_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/cbiagii/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cbiagii&repo=convoychat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&layout=compact" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&layout=compact)](https://github.com/cbiagii/github-readme-stats)
