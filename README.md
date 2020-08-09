@@ -18,9 +18,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Integrating R with SLURM job submission](http://cbiagii.github.io//post/post_03/)
-- [A fast and smart alternative for classifying cell types](http://cbiagii.github.io//post/post_02/)
-- [Stop your analysis until you read this clustering secret](http://cbiagii.github.io//post/post_01/)
+- [Integrating R with SLURM job submission](/post/post_03/)
+- [A fast and smart alternative for classifying cell types](/post/post_02/)
+- [Stop your analysis until you read this clustering secret](/post/post_01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
