@@ -23,6 +23,9 @@
 - [Stop your analysis until you read this clustering secret](http://cbiagii.github.io//post/post_01/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="cbiagii's Github Stats" src="https://github-readme-stats.cbiagii.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: http://cbiagii.github.io
 [twitter]: https://twitter.com/cbiagii
