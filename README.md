@@ -28,10 +28,10 @@
   <img align="left" alt="cbiagii's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cbiagii&scount_private=true&how_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/cbiagii/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&card_width=1" />
 </a>
 
---
+---
 
 [website]: http://cbiagii.github.io
 [twitter]: https://twitter.com/cbiagii
