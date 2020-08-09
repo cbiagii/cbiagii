@@ -31,8 +31,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&layout=compact" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&layout=compact)](https://github.com/cbiagii/github-readme-stats)
-
 ---
 
 [website]: http://cbiagii.github.io
