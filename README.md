@@ -18,8 +18,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A fast and smart alternative for classifying cell types](/post/post_02/)
-- [Stop your analysis until you read this clustering secret](/post/post_01/)
+- [A fast and smart alternative for classifying cell types](https://cbiagii.github.io/post/post_02/)
+- [Stop your analysis until you read this clustering secret](https://cbiagii.github.io/post/post_01/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
