@@ -1,9 +1,11 @@
 ### Hi folks, I'm Carlos!
 
+Computational Postdoc at  @DanaFarber   @harvardmed  | PhD in Genetics | Single-cell analysis
+
 ## I’m R, bioinformatics and single-cell enthusiast!
-- 🔭 I’m currently working on [Uniklinik Köln][uniklinik]!
+- 🔭 I’m currently a Computational Postdoc Fellow at [Dana-Farber Cancer Institute][uniklinik]!
 - 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -31,6 +33,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbiagii&hide=html&card_width=300" />
 </a>
 
+[dfci]: https://www.dana-farber.org
 [uniklinik]: https://www.uk-koeln.de
 [website]: http://cbiagii.github.io
 [twitter]: https://twitter.com/cbiagii
