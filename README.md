@@ -5,7 +5,7 @@ Computational Postdoc at  @DanaFarber   @harvardmed  | PhD in Genetics | Single-
 ## I’m R, bioinformatics and single-cell enthusiast!
 - 🔭 I’m currently a Computational Postdoc Fellow in [Filbin Lab][filbinlab] at [Dana-Farber Cancer Institute][dfci], [Harvard Medical School][hms] and [Broad Institute][broad]
 - 🌱 I’m currently learning everything
-- 🥅 202 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
